@@ -1,4 +1,4 @@
-# railseat
+# Railseat Finder
 
 A new Flutter project.
 
@@ -9,7 +9,7 @@ About --> A Flutter project as a assignment for CRUV. Basically it inputs a seat
 * This app is built in 3 days and mostly i worked in UI because I think for best User-Experience UI plays a major role.
 * This app uses State management of "BLOC" to implement the data and it states and events.
 * It inputs your seat number and shows corresponding seat according to Indian Railways system.
-* It shows invalid error when wrong type of seat number is inputed with ## AUTO DELETE feature of invalid seat number.
+* It shows invalid error when wrong type of seat number is inputed with "AUTO DELETE" feature of invalid seat number.
 
   SOME SCREEN CAPTURES:-
 
